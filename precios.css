@@ -1,0 +1,48 @@
+.precios {
+    text-align: center;
+    border-color: #dec769;
+    
+}
+
+.copyright{
+    height: 20px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.menu-footer {
+    align-self: center;
+}
+
+.menu-footer1 {
+    margin-left: 60px;
+    margin-top: 15px;
+}
+
+a:hover {
+    color: #4e2709;
+}
+
+.instagramm {
+    
+    font-size: 50px;
+    color:rgb(101, 101, 102);
+    transform: translateY(-2px);
+    text-decoration: none;
+    
+}
+
+.facebook {
+    
+    font-size: 50px;
+    color:rgb(101, 101, 102);
+    transform: translateY(-2px);
+    
+}
+
+.search{
+    background-color: #f9f3e2;
+    color: #9c8c64;
+    border-color: #9c8c64;
+}

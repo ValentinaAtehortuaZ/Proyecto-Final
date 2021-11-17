@@ -1,0 +1,91 @@
+.copyright{
+    height: 20px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.menu-footer1 {
+    margin-left: 60px;
+    
+}
+
+.instagramm {
+    
+    font-size: 50px;
+    color:rgb(101, 101, 102);
+    transform: translateY(-2px);
+    text-decoration: none;
+    
+}
+
+.facebook {
+    
+    font-size: 50px;
+    color:rgb(101, 101, 102);
+    transform: translateY(-2px);
+    
+}
+
+#COLOR{
+    color:aliceblue;
+    background-color:#4e2709;
+    border-color:#4e2709 ;
+
+}
+#COLOR:hover {
+    background-color: #bab88f;
+    color: white;
+}
+
+
+
+.pizza{
+    text-align: center;
+    background-color: #4e2709;
+    padding: 20px;
+    margin-right: 60px;
+    margin-left: 60px;
+    color: aliceblue;
+}
+
+.todas-pizzas {
+    grid-template-columns: auto auto auto auto;
+    display: grid;
+    align-items: center;
+}
+
+.Italiana  {
+    margin-left: 60px;
+}
+
+.Pepperoni {
+    margin-left: 60px;
+}
+
+.Hawaiana {
+    margin-left: 60px
+}
+
+.Romana {
+    margin-left: 60px
+}
+
+.LASAÑAS {
+    grid-template-columns: auto auto auto ;
+    display: grid;
+    align-items: center;
+}
+
+.LASAÑA-CARNE {
+    margin-left: 130px;
+    
+    
+}
+
+
+.search{
+    background-color: #f9f3e2;
+    color: #9c8c64;
+    border-color: #9c8c64;
+}
